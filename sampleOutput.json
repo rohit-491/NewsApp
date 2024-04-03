@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        },
+        {
+            "source": {
+            "id": "cnn",
+            "name": "CNN"
+          },
+          "author": "Christal Hayes, Paradise Afshar",
+          "title": "Virginia home explodes with fire crews inside, leaving firefighter dead and 11 others injured, officials say - CNN",
+          "description": "A house exploded in Sterling, Virginia, Friday night as fire crews were inside, leaving at least one firefighter dead and at least 11 others injured, including nine other firefighters, officials say.",
+          "url": "https://www.cnn.com/2024/02/16/us/sterling-virginia-house-explosion-firefighters/index.html",
+          "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/still-20391374-1254780-still.jpeg?c=16x9&q=w_800,c_fill",
+          "publishedAt": "2024-02-17T05:15:00Z",
+          "content": "A house exploded in Sterling, Virginia, Friday night as fire crews were inside, leaving at least one firefighter dead and at least 11 others injured, including nine other firefighters, officials say.… [+1354 chars]"
+          },
+          {
+          "source": {
+            "id": null,
+            "name": "YouTube"
+            },
+            "author": null,
+            "title": "Houthi Missile Hits India-Bound Ship Carrying Crude Oil From Russia: USA | Red Sea | Gaza | Israel - Hindustan Times",
+            "description": "A fresh attack on a commercial ship took place in the Red Sea on February 16. The US government claimed that an oil tanker was hit by a Houthi missile. The s...",
+            "url": "https://www.youtube.com/watch?v=3jVQdbY2O9E",
+            "urlToImage": "https://i.ytimg.com/vi/3jVQdbY2O9E/maxresdefault.jpg",
+            "publishedAt": "2024-02-17T04:26:00Z",
+            "content": null
+            }
+    ]
+}
